@@ -1,0 +1,9 @@
+*.xcodeproj
+*Build/
+*Index/
+*DerivedData/
+*Package.swift
+*.build/
+*.exercism/
+*LinuxMain.swift
+*.DS_Store
